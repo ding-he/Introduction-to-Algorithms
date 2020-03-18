@@ -17,7 +17,7 @@ def lup_solve(L, U, p, b):
     
     for i in range(n - 1, -1, -1):
         s = 0
-        for j in range(i, n - 1):
+        for j in range(i, n):
             s += U[i][j] * x[j]
         x[i] = (y[i] - s) / U[i][j]
     return x
