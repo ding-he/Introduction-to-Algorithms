@@ -4,5 +4,5 @@
 
 ## 目录
 + **第一部分**
-> 第二章 [算法基础](Chapter2---Algorithm Base)
+> 第二章 [算法基础](/Chapter2---Algorithm Base)
 
